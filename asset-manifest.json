@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jjartssss/jaytalla/static/css/main.7c97c7da.css",
+    "main.js": "/jjartssss/jaytalla/static/js/main.80fbd267.js",
+    "static/media/Astronaut Helmet - 2250x2250.png": "/jjartssss/jaytalla/static/media/Astronaut Helmet - 2250x2250.6582efe513c1923ab802.png",
+    "index.html": "/jjartssss/jaytalla/index.html",
+    "main.7c97c7da.css.map": "/jjartssss/jaytalla/static/css/main.7c97c7da.css.map",
+    "main.80fbd267.js.map": "/jjartssss/jaytalla/static/js/main.80fbd267.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c97c7da.css",
+    "static/js/main.80fbd267.js"
+  ]
+}
