@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/jaytalla/static/css/main.7c97c7da.css",
-    "main.js": "/jaytalla/static/js/main.c1318c28.js",
+    "main.css": "/jaytalla/static/css/main.06733e4f.css",
+    "main.js": "/jaytalla/static/js/main.ee4204ff.js",
     "static/media/Astronaut Helmet - 2250x2250.png": "/jaytalla/static/media/Astronaut Helmet - 2250x2250.6582efe513c1923ab802.png",
     "index.html": "/jaytalla/index.html",
-    "main.7c97c7da.css.map": "/jaytalla/static/css/main.7c97c7da.css.map",
-    "main.c1318c28.js.map": "/jaytalla/static/js/main.c1318c28.js.map"
+    "main.06733e4f.css.map": "/jaytalla/static/css/main.06733e4f.css.map",
+    "main.ee4204ff.js.map": "/jaytalla/static/js/main.ee4204ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c97c7da.css",
-    "static/js/main.c1318c28.js"
+    "static/css/main.06733e4f.css",
+    "static/js/main.ee4204ff.js"
   ]
 }
